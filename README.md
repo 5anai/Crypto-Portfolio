@@ -1,5 +1,5 @@
 # Crypto-Portfolio
-Minimal cryptocurrency portfolio built for iOS devices. It allows users to track and manage their cryptocurrency holdings in a convenient and user-friendly interface. <br>
+Minimal cryptocurrency portfolio built for iOS devices using SwiftUI, UIKit, and the Coinlore API. It allows users to track and manage their cryptocurrency holdings in a convenient and user-friendly interface. <br>
 
 https://github.com/5anai/Crypto-Portfolio/assets/70899650/0715c226-87ae-42d8-857a-47cb765dceac
 
